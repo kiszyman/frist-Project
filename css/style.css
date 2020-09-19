@@ -1,0 +1,117 @@
+body{
+  font-size: 0.9375rem;
+  padding-top: 100px;
+  padding-left: 100px;
+  margin: 0;
+font-family: 'Nanum Gothic', sans-serif;
+}
+
+h1{
+  width: 350px;
+  font-size: 3.125rem;
+  margin-bottom: 0;
+  color: #440047;
+  font-weight: bolder;
+  text-align: left;
+}
+h3{
+  margin-bottom: 0;
+  color: white;
+}
+
+p{
+  width:350px;
+  font-family: 'Amiri', serif;
+  color: #440047;
+  font-weight: normal;
+}
+
+.star1{
+  position: absolute;
+  right: 140px;
+  top: 200px;
+  width: 340px;
+  height: 44px;
+  background-color: #c3aed6;
+  border-radius: 8px;
+  padding: 6px 0;
+}
+.star2{
+  position: absolute;
+  right: 120px;
+  top: 270px;
+  width: 340px;
+  height: 44px;
+  background-color: #c3aed6;
+  border-radius: 8px;
+    padding: 6px 0;
+}
+
+.star3{
+  position: absolute;
+  right: 100px;
+  top: 340px;
+  width: 340px;
+  height: 44px;
+  background-color: #c3aed6;
+  border-radius: 8px;
+    padding: 6px 0;
+}
+
+img{
+  float: left;
+  margin-right: 20px;
+}
+
+.verify{
+  margin-top: 5px;
+  color: #c3aed6;
+}
+.content{
+  clear: left;
+  padding-top: 20px;
+  width: 250px;
+  line-height: 1.5;
+  color: white;
+}
+
+.card1{
+  margin-top: 100px;
+  width: 260px;
+  padding: 15px;
+  background-color: #440047;
+  border-radius: 10px;
+}
+
+.card2{
+width: 260px;
+position: absolute;
+right: 550px;
+top: 500px;
+padding: 15px;
+  background-color: #440047;
+  border-radius: 10px;
+}
+
+.card3{
+width: 260px;
+right: 100px;
+top: 550px;
+position: absolute;
+padding: 15px;
+  background-color: #440047;
+  border-radius: 10px;
+}
+table{
+  color: #440047;
+}
+.top{
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.bottom{
+  position: absolute;
+  right: 0;
+  bottom: auto;
+}
